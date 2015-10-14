@@ -6,7 +6,6 @@
 ## Installation
 
 1. [Download the archive](https://github.com/Landish/laravel-ka/archive/master.zip) and place the `ka` folder into your `/resources/lang/` directory.
-
 2. Open `/config/app.php` file, replace `locale` key from `en` to `ka` and you're ready to go.
 
 ```php
