@@ -27,7 +27,7 @@ return [
         'string'  => ':attribute :min-სა და :max სიმბოლოს შორის უნდა იყოს.',
         'array'   => ':attribute-ის რაოდენობა :min-დან :max-მდე უნდა იყოს.',
     ],
-    'boolean'              => ':attribute field must be true or false.',
+    'boolean'              => ':attribute-ის მნიშვნელობა true, false, 0 ან 1 უნდა იყოს.',
     'confirmed'            => ':attribute დადასტურებას არ ემთხვევა.',
     'date'                 => ':attribute არასწორი თარიღის ფორმატს შეიცავს.',
     'date_format'          => ':attribute არ ემთხვევა თარიღის ფორმატს: :format.',

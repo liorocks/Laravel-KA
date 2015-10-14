@@ -14,6 +14,6 @@ return [
     */
 
     'failed' => 'მომხმარებელი ამ მონაცემებით არ არსებობს.',
-    'throttle' => 'Too many login attempts. გთხოვთ, სცადოთ :seconds წამში.',
+    'throttle' => 'წარუმატებელი ავტორიზაცია. გთხოვთ, სცადოთ :seconds წამში.',
 
 ];
