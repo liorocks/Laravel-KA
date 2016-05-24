@@ -18,7 +18,7 @@ Open `/config/app.php` file, replace `locale` key from `en` to `ka` and you're r
 ```
 *These translated files also exists in [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang) repository, which can be installed with [composer](https://getcomposer.org/).*
 
-Alternatively, you can [download the archive](https://github.com/Landish/laravel-ka/archive/master.zip) and place the translated file into your `/resources/lang/ka` directory.
+Alternatively, you can [download the archive](https://github.com/Landish/laravel-ka/archive/master.zip) and place the translated files into your `/resources/lang/ka` directory.
 
 ## Validation Translation
 
