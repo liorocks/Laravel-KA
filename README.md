@@ -5,13 +5,19 @@
 
 ## Installation
 
-1. [Download the archive](https://github.com/Landish/laravel-ka/archive/master.zip) and place the `ka` folder into your `/resources/lang/` directory.
+1. Open terminal and run the following commands from the root directory of your Laravel application:
+
+```
+$ git clone git@github.com:Landish/Laravel-KA.git resources/lang/ka
+```
 2. Open `/config/app.php` file, replace `locale` key from `en` to `ka` and you're ready to go.
 
 ```php
 'locale' => 'ka',
 ```
 *These translated files also exists in [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang) repository, which can be installed with [composer](https://getcomposer.org/).*
+
+Alternatively, you can [download the archive](https://github.com/Landish/laravel-ka/archive/master.zip) and place the translated file into your `/resources/lang/ka` directory.
 
 ## Validation Translation
 
