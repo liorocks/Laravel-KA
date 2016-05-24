@@ -5,12 +5,13 @@
 
 ## Installation
 
-1. Open terminal and run the following commands from the root directory of your Laravel application:
+Open terminal and run the following command from the root directory of your Laravel application:
 
 ```
 $ git clone git@github.com:Landish/Laravel-KA.git resources/lang/ka
 ```
-2. Open `/config/app.php` file, replace `locale` key from `en` to `ka` and you're ready to go.
+
+Open `/config/app.php` file, replace `locale` key from `en` to `ka` and you're ready to go.
 
 ```php
 'locale' => 'ka',
