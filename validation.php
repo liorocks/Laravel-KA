@@ -38,7 +38,7 @@ return [
     'digits_between'       => ':attribute უნდა შედგებოდეს :min-დან :max ციფრამდე.',
     'dimensions'           => ':attribute შეიცავს სურათის არასწორ ზომებს.',
     'distinct'             => ':attribute უნდა იყოს უნიკალური.',
-    'email'                => ':attribute უნდა იყოს სწორი ელ.ფოსტა.',
+    'email'                => ':attribute უნდა იყოს სწორი ელ. ფოსტა.',
     'exists'               => 'ასეთი :attribute არ არსებობს.',
     'file'                 => ':attribute უნდა იყოს ფაილი.',
     'filled'               => ':attribute აუცილებელია.',
